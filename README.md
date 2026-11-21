@@ -1,8 +1,8 @@
-# Hi, I'm Zeynep 👋 😄
+# Hi, I'm Zeynep 🌸
 
-I'm a Computer Engineering Student 💻. I am developing myself in C, Python, Java, and Arduino. You can review my work in these areas and provide feedback.
+I'm a Computer Engineering Student ✨. I am developing myself in C, Python, Java, and Arduino. You can review my work in these areas and provide feedback.
 
-### Connect with me:
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zeynep-buldu-4b480a440/" target="blank">
@@ -10,7 +10,7 @@ I'm a Computer Engineering Student 💻. I am developing myself in C, Python, Ja
   </a>
 </p>
 
-### 🚀 Languages and Tools:
+### Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
